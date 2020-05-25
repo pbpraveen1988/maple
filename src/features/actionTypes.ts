@@ -1,0 +1,4 @@
+export const GET_SERVICES = 'GET_SERVICES';
+export const GET_PROVIDERS = 'GET_PROVIDERS';
+export const SET_PROVIDERS = 'SET_PROVIDERS';
+export const SET_SERVICES = 'SET_SERVICES';
